@@ -1,5 +1,5 @@
 # DinoTouchBar
-Fork of the DinoTouchBar - updated to Swift 5.0 &amp; Apple Silicon
+Fork of the TouchBarDino - updated to Swift 5.0 &amp; Apple Silicon
 
 # TouchBarDino <img src="Resources/Icon.png" width="30">
 Who hasn't played the dinosaur game in Chrome when the internet goes down? But how about with Touch Bar?
